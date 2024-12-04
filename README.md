@@ -23,3 +23,4 @@ Este proyecto simula la gestión de la configuración del software utilizando Gi
 
 ### Versiones
 - `v1.0`: Primera versión con las tareas iniciales completadas.
+- `v1.1`: Versión con la tarea en Jira completada.
